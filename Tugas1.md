@@ -1,7 +1,7 @@
 # TUGAS 1: Mencari Topik Penelitian
-Nama    : Ellayuni Nur Fadila <br>
-NPM     : 20081010016 <br>
-Kelas   : D081 <br>
+Nama    : Ellayuni Nur Fadila
+NPM     : 20081010016
+Kelas   : D081
 
 ### TOPIK PENELITIAN
 Klasifikasi Jenis UKM yang diikuti oleh mahasiswa dengan Algoritma k-means clustering berdasarkan minat dan bakat
