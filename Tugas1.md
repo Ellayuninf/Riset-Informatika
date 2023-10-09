@@ -4,7 +4,7 @@ NPM     : 20081010016 <br>
 Kelas   : D081 <br>
 
 ### TOPIK PENELITIAN
-Algoritma K-Meangs untuk Clustering Jenis dan keikutsertaan mahasiswa dalam UKM yang ada di UPN "Veteran" Jawa Timur 
+Algoritma K-Means untuk Clustering Jenis dan keikutsertaan mahasiswa dalam UKM yang ada di UPN "Veteran" Jawa Timur 
 
 ### PERSOALAN PRAKTIS
 UKM adalah suatu wadah yang menghimpun beberapa mahasiswa berdasarkan suatu hal yang menjadi ciri khasnya sealin adanya wadah dalam lingkup jurusan maupun fakultas. Namun seringkali para mahasiswa salah dalam menentukan hal tersebut, sehingga diperlukannya pendataan terhadap mahasiswa yang sebelumnya agar kedepannya tidak terjadi permasalahan yang sama seperti yang sudah terjadi. Dengan hasil yang didapatkan nantinya, maka mahasiswa diharapkan dapat memilih jenis UKM ynag memang sesuai dengan minat dan bakat meraka agar tidak terjadi kebingungan di awal dan berujung berhenti di tengah jalan karena merasa tidak cocok.
