@@ -10,8 +10,8 @@ Kelas : D081 <hr>
 - [IMPLEMENTASI DATA MINING UNTUK ANALISIS DATA PENJUALAN DENGAN MENGGUNAKAN ALGORITMA APRIORI (STUDI KASUS DAPOERIN'S)](https://ejournal.bsi.ac.id/ejurnal/index.php/khatulistiwa/article/view/8994/4535)
 
 2. Metodologi
-- [ANALISIS KEAMANAN WEB SERVER OPEN JOURNAL SYSTEM(OJS) MENGGUNAKAN METODE ISSAF DAN OWASP(STUDI KASUS OJS UNIVERSITAS LANCANG KUNING)]([https://journal.uii.ac.id/AUTOMATA/article/view/15445/10213](https://jurnal.stkippgritulungagung.ac.id/index.php/jipi/article/view/1565/707))
-- [Implementasi Twitter Bootstrap dalam Pengembangan Aplikasi Web E-Commerce (Studi Kasus Toko Putra Reban Kendal)]([https://journal.admi.or.id/index.php/JTS/article/view/108/135](https://journals.usm.ac.id/index.php/transformatika/article/view/3541/2127))
+- [ANALISIS KEAMANAN WEB SERVER OPEN JOURNAL SYSTEM(OJS) MENGGUNAKAN METODE ISSAF DAN OWASP(STUDI KASUS OJS UNIVERSITAS LANCANG KUNING)](https://jurnal.stkippgritulungagung.ac.id/index.php/jipi/article/view/1565/707))
+- [Implementasi Twitter Bootstrap dalam Pengembangan Aplikasi Web E-Commerce (Studi Kasus Toko Putra Reban Kendal)](https://journals.usm.ac.id/index.php/transformatika/article/view/3541/2127))
 
 ### Perbedaan Metode dan Metodologi
 1. Metode
