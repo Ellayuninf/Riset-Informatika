@@ -22,8 +22,7 @@ adalah kerangka berpikir yang digunakan untuk merencanakan penelitian, memilih m
 
 ### Implementasi pada Penelitian
 1. Metodologi
-- Metode K-Means clustering adalah pendekatan yang umum digunakan untuk mengelompokkan data berdasarkan kesamaan karakteristik, dan dalam konteks ini, digunakan untuk mengelompokkan mahasiswa dalam berbagai kategori UKM Bela Negara.
+- Metode K-Means clustering adalah pendekatan yang umum digunakan untuk mengelompokkan data berdasarkan kesamaan karakteristik, dan dalam konteks ini digunakan untuk mengelompokkan pelanggan suatu mall berdasarkan total pengeluarannya dengan pendapatan kotor yang diperoleh dari pembelian konsumen.
 
 2. Metode
-- Wawancara : Metode ini dapat digunakan untuk mewawancarai mahasiswa anggota aktif, pengurus harian maupun pembina UKM yang menegtahui seperti apa UKM yang diikuti.
-- Observasi : Pengamatan langsung di sekitar lingkungan UKM tersebut berkegiatan dapat memberikan wawasan berharga tentang cara mereka berkegiatan dengan alat dan lingkungan mereka.
+- Penelitian Kuantitatif: Melibatkan pengumpulan data numerik dan analisis statistik untuk menjawab pertanyaan penelitian. Umumnya menggunakan survei, eksperimen, atau analisis data sekunder.
