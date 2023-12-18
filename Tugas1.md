@@ -4,17 +4,18 @@ NPM     : 20081010016 <br>
 Kelas   : D081 <br>
 
 ### TOPIK PENELITIAN
-Algoritma K-Means untuk Clustering Jenis dan keikutsertaan mahasiswa dalam UKM Bela Negara yang ada di UPN "Veteran" Jawa Timur 
+Analisis Segmetasi Pengunjung suatu Mall dengan Metode Klasifikasi K-means Menggunakan Elbow Method
 
 ### PERSOALAN PRAKTIS
-UKM adalah suatu wadah yang menghimpun beberapa mahasiswa berdasarkan suatu hal yang menjadi ciri khasnya sealin adanya wadah dalam lingkup jurusan maupun fakultas. Namun seringkali para mahasiswa salah dalam menentukan hal tersebut, sehingga diperlukannya pendataan terhadap mahasiswa yang sebelumnya agar kedepannya tidak terjadi permasalahan yang sama seperti yang sudah terjadi. Dengan hasil yang didapatkan nantinya, maka mahasiswa diharapkan dapat memilih jenis UKM ynag memang sesuai dengan minat dan bakat meraka agar tidak terjadi kebingungan di awal dan berujung berhenti di tengah jalan karena merasa tidak cocok.
+Segmentasi Pelanggan adalah salah satu aplikasi paling penting dalam dunia bisnis, secara khusus untuk analisis Mareketing. Dengan menggunakan teknik pengelompokan (clustering), perusahaan dapat mengidentifikasi beberapa segmen pelanggan yang memungkinkan mereka untuk menargetkan basis pengguna (konsumen) potensial. Dalam penlitian ini, akan digunakan pengelompokan K-means yang merupakan algoritma penting untuk pengelompokan dataset yang tidak berlabel (unsuperpised).
 
 ### RESEARCH QUESTIONS
-- Bagaimana algoritma K-Means Clustering dapat digunakan untuk mengelompokkan mahasiswa berdasarkan minat dan bakat mereka terkait dengan UKM?
-- Bagaimana mengukur tingkat akurasi dan efektivitas model K-Means Clustering dalam memprediksi jenis UKM yang sesuai dengan minat dan bakat mahasiswa?
-- Bagaimana hasil analisis klasifikasi minat dan bakat mahasiswa dapat digunakan dalam memandu mahasiswa dalam pemilihan UKM?
+- Berapa jumlah kluster optimal yang dapat digunakan untuk mengelompokkan pelanggan dengan akurat menggunakan algoritma K-means?
+- Bagaimana untuk menemukan menemukan konsumen yang lebih potensial untuk dilakukan pendampingan yang lebih tepat untuk meningkatkan keuntungan yang akan diperoleh pelaku bisnis dalam Mall?
+- Bagaimana variabel-variabel pemasaran seperti promosi, harga, atau layanan pelanggan berkontribusi pada pembentukan segmen pelanggan?
 
 ### TEORI KETERKAITAN
 - Teori Data Mining
-- Teori Psikologi Pendidikan
 - Teori Clustering
+- Teori Elbow Method
+- Teori Segmentasi
